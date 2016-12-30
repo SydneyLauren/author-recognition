@@ -7,6 +7,7 @@ In addition to the original text, parameters like average word length and number
 <img src="images/sent_len.png" width="800">
 
 Word clouds were generated for each author.
+
 <img src="images/MarkTwain_wordcloud.png", width="500">
 <img src="images/JohnMuir_wordcloud.png", width="500">
 <img src="images/CharlesDickens_wordcloud.png", width="500">

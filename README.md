@@ -8,7 +8,14 @@ In addition to the original text, parameters like average word length and number
 
 Word clouds were generated for each author.
 
+Mark Twain
 <img src="images/MarkTwain_wordcloud.png", width="500">
+
+John Muir
 <img src="images/JohnMuir_wordcloud.png", width="500">
+
+Charles Dickens
 <img src="images/CharlesDickens_wordcloud.png", width="500">
+
+Jane Austen
 <img src="images/JaneAusten_wordcloud.png", width="500">
